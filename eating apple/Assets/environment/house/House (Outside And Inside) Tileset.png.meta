@@ -1,0 +1,2312 @@
+fileFormatVersion: 2
+guid: 617b8f357c9109f4e877444b7ab39616
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e111af831826458045fa49f985905
+      internalID: 440036613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946fee9a83fb79746b865f7a11489f92
+      internalID: -242329982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd72527d8d264d47861544f5004b1ef
+      internalID: -793034911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e1878296f4aa478c0d9ffb6cea2d2
+      internalID: -227273758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b724a80abcf645a5699888cf466c0
+      internalID: -1581092364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c146c2d1de7c4db751df410ba7025
+      internalID: -883298513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc255ae04f671c64fb16aacd917733b5
+      internalID: 529220503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd259fab6e1db4fb5e76c019a83fc1
+      internalID: 583247307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3250d5469c3b7a48adf06b59942cfba
+      internalID: 1164926710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 423.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba667f761d23a5140a0a4418bb041f53
+      internalID: -122352075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bace6be31f5c3a41b18e538830686e3
+      internalID: -497293860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff196ecbbe9604f8fe56e4f5b465ff
+      internalID: 2145774516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b3f1e38ca4cf4fa70f537a3aed88d
+      internalID: 1745865369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdacc266f86e5f4db6eeab80ff70a9e
+      internalID: -623221898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39081f70dbcd7d84fa6048a9e1704505
+      internalID: -364349673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4fb5d9f7ab8a40a028403963a1492
+      internalID: -101922766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f711c4e45c090f4b820981da3031998
+      internalID: -14974673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624b0782085524429e04562b30cfb3c
+      internalID: -275266490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cbfa15105d4b5429a297482caa4a2b
+      internalID: 399240550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 377.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfd81e30e8be15449bd65295d45cae5
+      internalID: -1440761582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760a0adf48a40f744a7cb2461ab17ce7
+      internalID: -842191094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae64239c9ad62b41975364dd81d5930
+      internalID: -796287332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce1eaaf26154f04abd28beb264d0048
+      internalID: -1300396264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9820d6138a64c48b8c66abde1480c2
+      internalID: 1724196056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e82578c1f7047418badc117d2ed118
+      internalID: 1883460877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab2561158420f4aba5ed7f3427077c
+      internalID: -1237474845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61b441d21c7254a9313374464c3cfe
+      internalID: -1849759881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474fd4e3ee565e4bbc297c4a5f2bd61
+      internalID: 1421778710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7211b4c0eff17da40addf4d986e2fbbc
+      internalID: -411826299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 331.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faedccf8d0a67fd418acd212ab53f219
+      internalID: 1726511889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb19c0ab114a914894ec27385bab95f
+      internalID: 875614246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d1eb3d3fd5ce43a74a1d85c273bdd
+      internalID: 1306936747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771eb577d2122994f912bdc26a0d0678
+      internalID: 668870939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed1a125a722cb459edd3a1044ed4eb
+      internalID: -1740086993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582dc43d6661bf1418f1f52027644d0a
+      internalID: -1942279488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb797635509365438fc3bcee677bac9
+      internalID: 478898068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4184e6a342d364143834b1a1b28472bf
+      internalID: -2012078484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3390492949b1d244a3fc1c1fcd3265a
+      internalID: 114357140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f9aee43915ef4eb2a78e70311b7fe
+      internalID: -360421641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 285.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2389a1c09f8c3408e0aecc5ae09058
+      internalID: 208175760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfa58ca44a36c84da74e26ea618d0f2
+      internalID: 1964398755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e1323722dfd646915a00160fbb0f3
+      internalID: -83379605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82536f3856cac1d4d966f610341f5ebb
+      internalID: -491908409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df2de34b6051c4faae9fa02d16d68d
+      internalID: 227003436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674626557f3da06418593c4d9fe18f7d
+      internalID: 827904029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab65cac70490c4cbdcee631e85c3a5
+      internalID: -610071064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605fc95840f71fe4a9cbc80cb834c0d3
+      internalID: -948205325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e607f0026d521441bfb1c5f4e7a13c8
+      internalID: -1273050026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e292cd91d657f44ea17f1253ebb5a88
+      internalID: -1280671661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 239.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539d259757b9fd4aa43b9b17701689c
+      internalID: -1779878799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985d3b9e192db9041ae2189ad67de3dc
+      internalID: -1299940516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea195389e57604582ab4542cb1f011
+      internalID: -2014397017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b581b9f3605a74e8142a5b8a57c9b9
+      internalID: 1614599163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e19eeb25d31534ba8bde4eb5fe40ac
+      internalID: 1972927257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88d168cd82dd1b478c8cd06298923eb
+      internalID: 532706022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a76bb35a4cc243b3a1e0f4a38a2e0
+      internalID: -1931049221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b121861cb41350d43909869a6355297a
+      internalID: 986395549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc2ceb93e9d5c84598102da1f5c63b3
+      internalID: -2021454493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a946ac0695f6449f076b5329ede25
+      internalID: -591623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 193.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1bb5b442f87e47a985e859fad3b19
+      internalID: -200825612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96d62ef9dd0a548a1091090fb1b310
+      internalID: -1185516718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff24bb139a8bce4bade3a5b952f28d4
+      internalID: -1565865460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8670988c9c773a418c119164b5e2590
+      internalID: 528079855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304671968e344a4438be934beccbad3d
+      internalID: 1863087822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c0ce98fee2144ca516e36f597666f
+      internalID: 1778689994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f686119e9f33f24bb6651244b61eca1
+      internalID: -226991082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b226a6c3df2449aeea351ff29d7ce
+      internalID: 6201846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c743c544d0a90c4ca6bb914fc9012c0
+      internalID: 316898860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 147.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d72c3a27f0e95643807da46f684efab
+      internalID: 705926839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63db740a55853a4e89618e2a7b89fc0
+      internalID: -535158320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4deee6250c9d45ae285ac91f2eb99
+      internalID: 765889317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037f075394643c4091b98cb9d7a7b0b
+      internalID: 1376086933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f1be19a64f89488c2973bc8625667
+      internalID: 1149460655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba512640566fee46aa4e332f5608bb1
+      internalID: 1183593477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ced0f7ebed41442b8e4762b112cb5a
+      internalID: 486829595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be1192fae99ad40925010556582849
+      internalID: 1562326809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87455eb42cb8ec44da03126a1c061f19
+      internalID: -1836146702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b52211d54b154292ae497fb79b0fc
+      internalID: -1754402705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 101.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560547c45b28bf44bd129e0244a20f0
+      internalID: -1663818661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933417a938d850429bc43a9ce476019
+      internalID: -1919282291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f7733426b9fb24998ab36545a4e244
+      internalID: 1830864672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8171892bfb7bc4198fd9e439613654
+      internalID: 1357013456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a78b43b993e93489de1b91c94c5218
+      internalID: -1598068000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09fb94910cb17b4db767969b4dbee22
+      internalID: 1534717375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3778e18002c65594b9981a597bcfab05
+      internalID: -892524441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1ad0e3e57f90408d19252cbc85511
+      internalID: 1038291757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b226921b10cac2469556743f49555f7
+      internalID: 399907095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e9c635e5fbf04490d7c1815fb745d
+      internalID: -998142317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 55.8
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68fbfe699203a49983915df79df666
+      internalID: 251683169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e2b93267a0c44681fa9671a09df8b
+      internalID: -1013979456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11957be2b28688144b2d1b2000ee0719
+      internalID: 976979906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e10c793f559290439d4bfb320a454a6
+      internalID: 2100084589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab44266397a8f4cb08a77122becbed
+      internalID: -46905979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf44cf3b8eeb54e836fa57e22fcae7
+      internalID: 914734078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fbac9bab7571a4aafe0e9db1703efb
+      internalID: -504664585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017fa3fc09815eb489db7bbc97ae5290
+      internalID: -1275507839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87389efd9f75fb4488b2372c9217471
+      internalID: 441220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f69312e672e2a4dbe982851ba05f41
+      internalID: 1678880303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House (Outside And Inside) Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9.799999
+        width: 35.2
+        height: 38.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209187a148a0972409b23d200fba345c
+      internalID: 1770182510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      House (Outside And Inside) Tileset_23: 1724196056
+      House (Outside And Inside) Tileset_58: -591623934
+      House (Outside And Inside) Tileset_67: 316898860
+      House (Outside And Inside) Tileset_64: 1778689994
+      House (Outside And Inside) Tileset_90: 976979906
+      House (Outside And Inside) Tileset_28: -411826299
+      House (Outside And Inside) Tileset_1: -242329982
+      House (Outside And Inside) Tileset_51: -2014397017
+      House (Outside And Inside) Tileset_6: 529220503
+      House (Outside And Inside) Tileset_36: -2012078484
+      House (Outside And Inside) Tileset_84: -892524441
+      House (Outside And Inside) Tileset_11: 2145774516
+      House (Outside And Inside) Tileset_95: -1275507839
+      House (Outside And Inside) Tileset_52: 1614599163
+      House (Outside And Inside) Tileset_80: 1830864672
+      House (Outside And Inside) Tileset_60: -1185516718
+      House (Outside And Inside) Tileset_86: 399907095
+      House (Outside And Inside) Tileset_26: -1849759881
+      House (Outside And Inside) Tileset_43: 227003436
+      House (Outside And Inside) Tileset_4: -1581092364
+      House (Outside And Inside) Tileset_5: -883298513
+      House (Outside And Inside) Tileset_62: 528079855
+      House (Outside And Inside) Tileset_40: 1964398755
+      House (Outside And Inside) Tileset_8: 1164926710
+      House (Outside And Inside) Tileset_13: -623221898
+      House (Outside And Inside) Tileset_15: -101922766
+      House (Outside And Inside) Tileset_29: 1726511889
+      House (Outside And Inside) Tileset_87: -998142317
+      House (Outside And Inside) Tileset_92: -46905979
+      House (Outside And Inside) Tileset_74: 486829595
+      House (Outside And Inside) Tileset_83: 1534717375
+      House (Outside And Inside) Tileset_19: -1440761582
+      House (Outside And Inside) Tileset_85: 1038291757
+      House (Outside And Inside) Tileset_30: 875614246
+      House (Outside And Inside) Tileset_24: 1883460877
+      House (Outside And Inside) Tileset_69: -535158320
+      House (Outside And Inside) Tileset_9: -122352075
+      House (Outside And Inside) Tileset_93: 914734078
+      House (Outside And Inside) Tileset_37: 114357140
+      House (Outside And Inside) Tileset_98: 1770182510
+      House (Outside And Inside) Tileset_47: -1273050026
+      House (Outside And Inside) Tileset_48: -1280671661
+      House (Outside And Inside) Tileset_79: -1919282291
+      House (Outside And Inside) Tileset_16: -14974673
+      House (Outside And Inside) Tileset_76: -1836146702
+      House (Outside And Inside) Tileset_2: -793034911
+      House (Outside And Inside) Tileset_70: 765889317
+      House (Outside And Inside) Tileset_38: -360421641
+      House (Outside And Inside) Tileset_89: -1013979456
+      House (Outside And Inside) Tileset_54: 532706022
+      House (Outside And Inside) Tileset_3: -227273758
+      House (Outside And Inside) Tileset_0: 440036613
+      House (Outside And Inside) Tileset_17: -275266490
+      House (Outside And Inside) Tileset_7: 583247307
+      House (Outside And Inside) Tileset_59: -200825612
+      House (Outside And Inside) Tileset_82: -1598068000
+      House (Outside And Inside) Tileset_20: -842191094
+      House (Outside And Inside) Tileset_12: 1745865369
+      House (Outside And Inside) Tileset_50: -1299940516
+      House (Outside And Inside) Tileset_94: -504664585
+      House (Outside And Inside) Tileset_44: 827904029
+      House (Outside And Inside) Tileset_68: 705926839
+      House (Outside And Inside) Tileset_46: -948205325
+      House (Outside And Inside) Tileset_14: -364349673
+      House (Outside And Inside) Tileset_27: 1421778710
+      House (Outside And Inside) Tileset_34: -1942279488
+      House (Outside And Inside) Tileset_45: -610071064
+      House (Outside And Inside) Tileset_65: -226991082
+      House (Outside And Inside) Tileset_49: -1779878799
+      House (Outside And Inside) Tileset_35: 478898068
+      House (Outside And Inside) Tileset_66: 6201846
+      House (Outside And Inside) Tileset_53: 1972927257
+      House (Outside And Inside) Tileset_31: 1306936747
+      House (Outside And Inside) Tileset_25: -1237474845
+      House (Outside And Inside) Tileset_81: 1357013456
+      House (Outside And Inside) Tileset_97: 1678880303
+      House (Outside And Inside) Tileset_91: 2100084589
+      House (Outside And Inside) Tileset_63: 1863087822
+      House (Outside And Inside) Tileset_10: -497293860
+      House (Outside And Inside) Tileset_56: 986395549
+      House (Outside And Inside) Tileset_72: 1149460655
+      House (Outside And Inside) Tileset_42: -491908409
+      House (Outside And Inside) Tileset_61: -1565865460
+      House (Outside And Inside) Tileset_75: 1562326809
+      House (Outside And Inside) Tileset_73: 1183593477
+      House (Outside And Inside) Tileset_32: 668870939
+      House (Outside And Inside) Tileset_71: 1376086933
+      House (Outside And Inside) Tileset_88: 251683169
+      House (Outside And Inside) Tileset_41: -83379605
+      House (Outside And Inside) Tileset_57: -2021454493
+      House (Outside And Inside) Tileset_21: -796287332
+      House (Outside And Inside) Tileset_78: -1663818661
+      House (Outside And Inside) Tileset_22: -1300396264
+      House (Outside And Inside) Tileset_33: -1740086993
+      House (Outside And Inside) Tileset_39: 208175760
+      House (Outside And Inside) Tileset_96: 441220275
+      House (Outside And Inside) Tileset_18: 399240550
+      House (Outside And Inside) Tileset_77: -1754402705
+      House (Outside And Inside) Tileset_55: -1931049221
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
