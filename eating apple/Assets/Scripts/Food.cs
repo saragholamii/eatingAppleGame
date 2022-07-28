@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class fruit : MonoBehaviour
+public class Food : MonoBehaviour
 {
     [SerializeField]
     AudioSource sounde;
